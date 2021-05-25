@@ -1,0 +1,92 @@
+
+ /* ELEEMO PAGE */
+
+ .navbar-brand img {
+    padding-right: 15px;
+    width: 42px;
+    margin-left: auto;
+    margin-right: 0 !important;
+  }
+      /* General */
+
+      /* Text */
+h1 {
+    font-family: 'Poppins';
+    margin-left: 1.88%;
+  }
+h2{
+  font-family: 'Poppins';
+}
+
+h3{
+  font-family: 'Poppins';
+  color: #26ACE2 ;
+  margin-left: 1.88%;
+  margin-top: 5% !important;
+  margin-bottom: 5% !important;
+}
+
+h4{
+  font-family: 'Poppins';
+  font-size: 18px !important;
+  font-weight: 500 !important;
+  margin-top: 5% !important;
+}
+
+  h5, h6 {
+    font-family: 'Josefin Sans';
+    margin-left: 1.88%;
+    font-size: 14px !important;
+  }
+
+p{
+  font-family: 'Josefin Sans';
+  font-size: 14px !important;
+  margin-left: 4%;
+  font-weight: 300 !important;
+  padding: 3%;
+}
+
+.frame{
+    background-color: #F8F8F8;
+    width:100vw;
+    margin-top: 5%;
+    margin-bottom: 2%;
+    padding-bottom: 5%;
+
+}
+
+
+.row{
+  margin-left: 3% !important;
+  margin-right: 3% !important;
+}
+
+
+.card{
+    border: none !important;
+    background-color: transparent !important;
+    box-shadow: none !important;
+}
+
+
+
+.btn{
+    background-color: #26ACE2 !important;
+    border:  #26ACE2 !important;
+    width: 100% !important;
+    height: 50%  !important;
+    border-radius: 5px !important;
+    font-family: 'Poppins';
+    font-size: 18px !important;
+    font-weight: 500 !important;
+}
+
+
+
+
+/* NAVIGATION */
+  .dropdown-menu {
+    left: -97px;
+  }
+
